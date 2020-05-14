@@ -7,7 +7,7 @@ if(isset($_SESSION['user_id']) && isset($_SESSION['user_type']) && $_SESSION['us
 	header('Location:../login.php');
 }
 ?>
-
+// example
 
 <!DOCTYPE html>
 <html lang="en">

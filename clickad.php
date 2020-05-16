@@ -70,3 +70,5 @@ if ((isset($_GET["aID"])) && ($_GET["aID"]!=null) && (isset($_GET["adUrl"])) && 
     header('Location:../welcomepublisher/ppcads.php');
 }
 ?>
+
+<!-- click ad -->
